@@ -56,7 +56,6 @@ class HolidayList:
             with open(filelocation, 'r') as f:
                 d = json.load(f)
             for i in d['Holidays']:
-                print(i)
                 self.addHoliday(Holiday(i['Name'], str(i['Date'])))
         except:
             print("Error reading from holidays.json")   
