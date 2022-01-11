@@ -16,19 +16,19 @@ The UI will include five options:
 5. Exit
 
 
-Add a Holiday:
-    Adds a holiday to the list of holidays with user-defined name and date.
-Remove a Holiday:
-    Removes a holiday from the list matching a user-defined name and date.
-Save Holiday List:
-    Writes the current list of holidays to **holidays.json**
-View Holidays
-    Displays holidays from a user-defined year and week number (1 -52).
-    The user is able to leave the week entry blank and the holidays from
-    the current week and year will be displayed. When having done so, the
-    user will also be able to input 'Y' when prompted to see a description
-    of the recorded or predicted weather on the holiday dates.
-Exit
-    Will allow the user to terminate the progam. If no write to the **holidays.json**
-    file has been detected since the list of holidays has been modified, the user
-    will be prompted to save. 
+Add a Holiday:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Adds a holiday to the list of holidays with user-defined name and date.<br />
+Remove a Holiday:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Removes a holiday from the list matching a user-defined name and date.<br />
+Save Holiday List:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Writes the current list of holidays to **holidays.json**<br />
+View Holidays<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Displays holidays from a user-defined year and week number (1 -52).<br />
+&nbsp;&nbsp;&nbsp;&nbsp;The user is able to leave the week entry blank and the holidays from<br />
+&nbsp;&nbsp;&nbsp;&nbsp;the current week and year will be displayed. When having done so, the<br />
+&nbsp;&nbsp;&nbsp;&nbsp;user will also be able to input 'Y' when prompted to see a description<br />
+&nbsp;&nbsp;&nbsp;&nbsp;of the recorded or predicted weather on the holiday dates.<br />
+Exit<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Will allow the user to terminate the progam. If no write to the **holidays.json**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;file has been detected since the list of holidays has been modified, the user<br />
+&nbsp;&nbsp;&nbsp;&nbsp;will be prompted to save. 
