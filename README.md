@@ -1,9 +1,9 @@
 ## Holiday Manager
 
 Files
--Holiday Manager sourcecode : **HolidayManager.py**
--Holiday Manager pseudocode : **HolidayManagerPseudocode.py**
--Starting file of holiday data : **holidays.json**
+-Holiday Manager sourcecode : **HolidayManager.py**<br />
+-Holiday Manager pseudocode : **HolidayManagerPseudocode.py**<br />
+-Starting file of holiday data : **holidays.json**<br />
 
 The holiday manager stores and retreives holiday names and dates from an internalized list of holiday objects. On startup, all holiday names and dates from the **holidays.json** file and from [timeanddate.com](https://www.timeanddate.com/holidays/us/) from the years 2020, 2021, 2022, 2023, and 2024 will be preloaded into the holiday list.
 
